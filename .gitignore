@@ -1,6 +1,6 @@
 # Compiled binaries
-goroutes
-goroutes.exe
+/goroutes
+/goroutes.exe
 *.exe
 *.exe~
 *.dll
