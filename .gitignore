@@ -1,0 +1,45 @@
+# Compiled binaries
+goroutes
+goroutes.exe
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go test binaries and coverage
+*.test
+*.out
+coverage.txt
+coverage.html
+
+# Build directories
+bin/
+build/
+dist/
+
+# Generated route files
+keenetic-routes.bat
+routes.bat
+result.bat
+generated-routes.bat
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+*.bat
